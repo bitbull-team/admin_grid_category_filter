@@ -1,0 +1,15 @@
+{
+    "name": "vuleticd/admin_grid_category_filter",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Add category filter to manage products grid in your Magento backend",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+          "name":"Vuletic Dragan",
+          "email":"vuleticd@gmail.com"
+        }
+    ]
+}
